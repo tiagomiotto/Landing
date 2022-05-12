@@ -24,7 +24,7 @@ body{
 ul{
     display: flex;
     list-style: none;
-    gap: 8px;
+    gap: 16px;
 }
 
 ul a{
@@ -59,7 +59,10 @@ ul a{
 }
 .card .image-placeholder{
     background-color: grey;
-    flex: 1 1 auto;    
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex: 1;  
     
 }
 button{
