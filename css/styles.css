@@ -50,8 +50,7 @@ ul a{
 }
 
 .hero .card .content{
-    /* flex: 1; */
-    /*  */
+
     max-width: 500px;
 }
 .hero .card .title{
@@ -69,7 +68,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;  
-    flex: 1;  
+    flex: 1 0 auto;  
     
 }
 .hero button{
