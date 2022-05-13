@@ -170,3 +170,12 @@ button{
 .call-to-action button{
     border: 2px solid #f9faf8;
 }
+
+/* Footer */
+
+.footer{
+    color:#f9faf8;
+    background-color: #1f2937;
+    text-align: center;
+    padding: 30px;
+}
