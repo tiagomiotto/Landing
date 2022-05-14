@@ -74,7 +74,8 @@ ul a{
     justify-content: center;
     align-items: center;  
     flex: 1 0 auto;  
-    max-width: 500px;
+    max-width: 300px;
+    max-height: 300px;
 }
 button{
     border: 0;
