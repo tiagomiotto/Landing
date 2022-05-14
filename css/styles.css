@@ -73,7 +73,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;  
-    flex: 1 0 auto;  
+    /* flex: 1 0 auto;   */
     max-width: 300px;
     max-height: 300px;
 }
