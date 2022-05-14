@@ -103,6 +103,7 @@ button{
     padding-top: 30px;
     display: flex;
     gap: 8px;
+    justify-content: space-evenly;
 }
 
 .carroussel .card{
@@ -110,14 +111,19 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: fit-content;
 }
 
 .carroussel .cards .illustration{
     /* flex:1; */
-    height: 100px;
-    width: 100px;
-    border: 2px solid #3882fc;
+    height: 120px;
+    width: 120px;
+    border: 4px solid #3882fc;
     border-radius: 10px ;
+}
+
+.carroussel .card .subtext{
+   width: 120px;
 }
 
 /* Testimonial CSS */
